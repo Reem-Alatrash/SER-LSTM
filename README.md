@@ -1,4 +1,4 @@
-# SER-RNN
+# SER LSTM
 
 
 ## About
